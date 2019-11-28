@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavRefreshGeolocation Component Snapshot 1`] = `
+<div
+  id="nav_refresh_geolocation"
+>
+  <div
+    className="text"
+  >
+    Weather here
+  </div>
+  <button
+    className="button"
+    id="refresh_geolocation"
+    onClick={[Function]}
+  >
+    Refresh Geolocation
+  </button>
+</div>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DeleteFavourCity Component Snapshot 1`] = `
+<input
+  alt="delete"
+  className="img_button"
+  name="submit"
+  onClick={[Function]}
+  src="img/del.png"
+  type="image"
+/>
+`;

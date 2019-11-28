@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error Component Snapshot 1`] = `
+<div
+  className="placeholder"
+>
+  <div
+    className="text"
+  >
+    Error, try again later..
+  </div>
+  <img
+    alt="loading"
+    className="placeholder_img"
+    src="img/error.gif"
+  />
+</div>
+`;

@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherLine Component Snapshot 1`] = `
+<div
+  className="line"
+>
+  <div
+    className="param"
+  >
+    Weather
+  </div>
+  <div
+    className="value"
+  >
+    Sun
+  </div>
+</div>
+`;

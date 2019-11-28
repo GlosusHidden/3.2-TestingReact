@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loading Component Snapshot 1`] = `
+<div
+  className="placeholder"
+>
+  <div
+    className="text"
+  >
+    Wait, weather loading is in progress..
+  </div>
+  <img
+    alt="loading"
+    className="placeholder_img"
+    src="img/loading.gif"
+  />
+</div>
+`;

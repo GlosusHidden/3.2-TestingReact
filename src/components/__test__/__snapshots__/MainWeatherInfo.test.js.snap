@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MainWeatherInfo Component Snapshot displayStyle - Favour 1`] = `
+<div
+  className="main_favour_weather_info"
+>
+  <div
+    className="city"
+  >
+    Paris
+  </div>
+  <div
+    className="img"
+  >
+    <img
+      alt="weather"
+      className="weather_icon"
+      src="http://openweathermap.org/img/wn/10n@2x.png"
+    />
+  </div>
+  <div
+    className="temp"
+  >
+    5
+    °C
+  </div>
+  <input
+    alt="delete"
+    className="img_button"
+    name="submit"
+    onClick={[Function]}
+    src="img/del.png"
+    type="image"
+  />
+</div>
+`;
+
+exports[`MainWeatherInfo Component Snapshot displayStyle - Geo 1`] = `
+<div
+  className="main_geo_weather_info"
+>
+  <div
+    className="city"
+  >
+    Farforovaya
+  </div>
+  <div
+    className="img"
+  >
+    <img
+      alt="weather"
+      className="weather_icon"
+      src="http://openweathermap.org/img/wn/04n@2x.png"
+    />
+  </div>
+  <div
+    className="temp"
+  >
+    3
+    °C
+  </div>
+</div>
+`;

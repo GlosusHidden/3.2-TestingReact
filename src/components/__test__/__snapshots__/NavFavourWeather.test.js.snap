@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavFavourWeather Component Snapshot 1`] = `
+<div
+  id="nav_favour_weather"
+>
+  <div
+    className="text"
+  >
+    Favourites
+  </div>
+  <form
+    id="add_favour_form"
+    onSubmit={[Function]}
+  >
+    <input
+      className="input_text"
+      name="city_name"
+      onChange={[Function]}
+      placeholder="Add new city"
+      required={true}
+      type="text"
+      value=""
+    />
+    <input
+      alt="add"
+      className="img_button"
+      name="submit"
+      src="img/add.png"
+      type="image"
+      value="Submit"
+    />
+  </form>
+</div>
+`;

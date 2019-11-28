@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AdvancedWeatherInfo Component Snapshot 1`] = `
+<div
+  className="list"
+  id="advanced_weather_info"
+>
+  <div
+    className="line"
+  >
+    <div
+      className="param"
+    >
+      Weather
+    </div>
+    <div
+      className="value"
+    >
+      Light rain
+    </div>
+  </div>
+  <div
+    className="line"
+  >
+    <div
+      className="param"
+    >
+      Pressure
+    </div>
+    <div
+      className="value"
+    >
+      753 mmHg
+    </div>
+  </div>
+  <div
+    className="line"
+  >
+    <div
+      className="param"
+    >
+      Humidity
+    </div>
+    <div
+      className="value"
+    >
+      93 %
+    </div>
+  </div>
+  <div
+    className="line"
+  >
+    <div
+      className="param"
+    >
+      Wind
+    </div>
+    <div
+      className="value"
+    >
+      2.1
+    </div>
+  </div>
+  <div
+    className="line"
+  >
+    <div
+      className="param"
+    >
+      Coordinates
+    </div>
+    <div
+      className="value"
+    >
+      [48.86, 2.35]
+    </div>
+  </div>
+</div>
+`;

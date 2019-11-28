@@ -1,0 +1,313 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WeatherBlock Component Snapshot displayStyle - Favour Error  1`] = `
+<div
+  className="favour_block"
+>
+  <div
+    className="placeholder"
+  >
+    <div
+      className="text"
+    >
+      Error, try again later..
+    </div>
+    <img
+      alt="loading"
+      className="placeholder_img"
+      src="img/error.gif"
+    />
+    <input
+      alt="delete"
+      className="img_button"
+      name="submit"
+      onClick={[Function]}
+      src="img/del.png"
+      type="image"
+    />
+  </div>
+</div>
+`;
+
+exports[`WeatherBlock Component Snapshot displayStyle - Favour Loading  1`] = `
+<div
+  className="favour_block"
+>
+  <div
+    className="placeholder"
+  >
+    <div
+      className="text"
+    >
+      Wait, weather loading is in progress..
+    </div>
+    <img
+      alt="loading"
+      className="placeholder_img"
+      src="img/loading.gif"
+    />
+  </div>
+</div>
+`;
+
+exports[`WeatherBlock Component Snapshot displayStyle - Favour Standart  1`] = `
+<div
+  className="favour_block"
+>
+  <div
+    className="main_favour_weather_info"
+  >
+    <div
+      className="city"
+    >
+      Paris
+    </div>
+    <div
+      className="img"
+    >
+      <img
+        alt="weather"
+        className="weather_icon"
+        src="http://openweathermap.org/img/wn/10n@2x.png"
+      />
+    </div>
+    <div
+      className="temp"
+    >
+      5
+      °C
+    </div>
+    <input
+      alt="delete"
+      className="img_button"
+      name="submit"
+      onClick={[Function]}
+      src="img/del.png"
+      type="image"
+    />
+  </div>
+  <div
+    className="list"
+    id="advanced_weather_info"
+  >
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Weather
+      </div>
+      <div
+        className="value"
+      >
+        Light rain
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Pressure
+      </div>
+      <div
+        className="value"
+      >
+        753 mmHg
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Humidity
+      </div>
+      <div
+        className="value"
+      >
+        93 %
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Wind
+      </div>
+      <div
+        className="value"
+      >
+        2.1
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Coordinates
+      </div>
+      <div
+        className="value"
+      >
+        [48.86, 2.35]
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`WeatherBlock Component Snapshot displayStyle - Geo Error  1`] = `
+<div
+  className="geolocation_weather"
+>
+  <div
+    className="placeholder"
+  >
+    <div
+      className="text"
+    >
+      Error, try again later..
+    </div>
+    <img
+      alt="loading"
+      className="placeholder_img"
+      src="img/error.gif"
+    />
+  </div>
+</div>
+`;
+
+exports[`WeatherBlock Component Snapshot displayStyle - Geo Loading  1`] = `
+<div
+  className="geolocation_weather"
+>
+  <div
+    className="placeholder"
+  >
+    <div
+      className="text"
+    >
+      Wait, weather loading is in progress..
+    </div>
+    <img
+      alt="loading"
+      className="placeholder_img"
+      src="img/loading.gif"
+    />
+  </div>
+</div>
+`;
+
+exports[`WeatherBlock Component Snapshot displayStyle - Geo Standart  1`] = `
+<div
+  className="geolocation_weather"
+>
+  <div
+    className="main_geo_weather_info"
+  >
+    <div
+      className="city"
+    >
+      Paris
+    </div>
+    <div
+      className="img"
+    >
+      <img
+        alt="weather"
+        className="weather_icon"
+        src="http://openweathermap.org/img/wn/10n@2x.png"
+      />
+    </div>
+    <div
+      className="temp"
+    >
+      5
+      °C
+    </div>
+  </div>
+  <div
+    className="list"
+    id="advanced_weather_info"
+  >
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Weather
+      </div>
+      <div
+        className="value"
+      >
+        Light rain
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Pressure
+      </div>
+      <div
+        className="value"
+      >
+        753 mmHg
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Humidity
+      </div>
+      <div
+        className="value"
+      >
+        93 %
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Wind
+      </div>
+      <div
+        className="value"
+      >
+        2.1
+      </div>
+    </div>
+    <div
+      className="line"
+    >
+      <div
+        className="param"
+      >
+        Coordinates
+      </div>
+      <div
+        className="value"
+      >
+        [48.86, 2.35]
+      </div>
+    </div>
+  </div>
+</div>
+`;
